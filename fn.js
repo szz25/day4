@@ -11,4 +11,4 @@ function fn(obj) {
     }
     return str
 }
-fn('120224 19970506 1424')
+console.log(fn('120224199705061424'))
